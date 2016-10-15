@@ -1,0 +1,11 @@
+def square(x):
+    '''
+    x: int or float.
+    x = x*x
+    '''
+    # Your code here
+    return x
+
+x = int(raw_input("Enter int or float number:"))
+y = square(x)
+print y

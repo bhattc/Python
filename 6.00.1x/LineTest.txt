@@ -1,0 +1,12 @@
+dir1
+ dir11
+  abc.gif
+ dir12
+  dir121
+  dir122
+   file1.jpeg
+   file2.jpeg
+dir2
+ file2.gif
+ dir21
+  fpge.jpeg

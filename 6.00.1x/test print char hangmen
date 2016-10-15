@@ -1,0 +1,6 @@
+p = ['a', 'b', 'c']
+for i in p:
+    print i
+    print p.index('b')
+    
+    

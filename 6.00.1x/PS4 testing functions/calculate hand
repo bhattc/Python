@@ -1,0 +1,6 @@
+def calculatehand(hand):
+    tothand = 0
+    for a in hand:
+        tothand += hand[a]
+        print tothand
+    
